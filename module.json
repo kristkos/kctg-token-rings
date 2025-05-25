@@ -1,0 +1,28 @@
+{
+  "id": "kctg-token-rings",
+  "title": "KCTG Dynamic Token Rings",
+  "description": "Custom token rings for Foundry VTT.",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12.331",
+    "maximum": "13"
+  },
+  "esmodules": ["index.js"],
+    "media": [
+    {
+        "type": "setup",
+        "caption": "Kris's Compendium of Trade Goods - Token Rings",
+        "thumbnail": "modules/kctg-token-rings/banner/Thumb.webp"
+    }],
+  "authors": [
+    {
+      "name": "kristkos",
+      "discord": "kristkos",
+      "url": "https://patreon.com/KCTG",
+      "flags": {}
+    }
+  ],
+  "download": "https://github.com/kristkos/kctg-token-rings/releases/download/1.0.0/kctg-token-rings.zip",
+  "manifest": "https://raw.githubusercontent.com/kristkos/kctg-token-rings/main/module.json"
+}
