@@ -9,7 +9,9 @@ Hooks.on("initializeDynamicTokenRingConfig", (registry) => {
     "tainted-iron",
     "vanadium",
     "lithium",
-    "gold-lithium"
+    "gold-lithium",
+    "editable-chroma-gold",
+    "editable-chroma-silver"
   ];
 
   for (const ring of rings) {
