@@ -1,17 +1,8 @@
 Hooks.on("initializeDynamicTokenRingConfig", (registry) => {
   const rings = [
-    "copper",
-    "gold-and-platinum",
-    "hematite",
-    "iron",
-    "moonstone",
-    "pure-gold",
-    "tainted-iron",
-    "vanadium",
-    "lithium",
-    "gold-lithium",
-    "editable-chroma-gold",
-    "editable-chroma-silver"
+    "spider-web",
+    "chroma-gold",
+    "chroma-silver"
   ];
 
   for (const ring of rings) {
