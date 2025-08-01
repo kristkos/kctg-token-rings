@@ -1,0 +1,36 @@
+{
+  "config": {
+    "defaultRingColor": "#ffffff"
+  },
+  "frames": {
+    "token-ring": {
+      "frame": { "x": 0, "y": 0, "w": 1024, "h": 1024 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1024, "h": 1024 },
+      "sourceSize": { "w": 1024, "h": 1024 },
+      "anchor": { "x": 0.5, "y": 0.5 },
+      "ringThickness": 0.23,
+      "ringColor": null,
+      "colorBand": {
+        "startRadius": 0.6,
+        "endRadius": 0.99
+      }
+    },
+    "token-ring-bkg": {
+      "frame": { "x": 1024, "y": 0, "w": 1024, "h": 1024 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 1024, "h": 1024 },
+      "sourceSize": { "w": 1024, "h": 1024 },
+      "anchor": { "x": 0.5, "y": 0.5 },
+      "isBackground": true
+    }
+  },
+  "meta": {
+    "image": "chrome.webp",
+    "format": "RGBA8888",
+    "size": { "w": 2048, "h": 1024 },
+    "scale": "1"
+  }
+}
