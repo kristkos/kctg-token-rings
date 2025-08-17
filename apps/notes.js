@@ -10,8 +10,8 @@ export class Notes extends Application {
             id: "notes",
             title: "Thank you for downloading `Kris' Token Rings module`",
             template: "modules/kctg-token-rings/templates/notes.html",
-            width: 700,
-            height: 600,
+            width: 690,
+            height: 627,
             classes:[ "kctg"]
         });
     }

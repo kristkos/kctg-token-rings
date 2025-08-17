@@ -3,6 +3,7 @@ Hooks.on("initializeDynamicTokenRingConfig", (registry) => {
     "chrome",
     "spider-web",
     "gold",
+    "slinky",
     "silver"
   ];
 
@@ -20,10 +21,6 @@ Hooks.on("initializeDynamicTokenRingConfig", (registry) => {
       BKG_WAVE: "TOKEN.RING.EFFECTS.BKG_WAVE",
       INVISIBILITY: "TOKEN.RING.EFFECTS.INVISIBILITY"
       },
-      onLoad: (ring) => {
-    console.log(`Loaded ring ${key}`, ring);
-    console.log('Background frame:', ring.spritesheet.frames["token-ring-bkg"]);
-  }
 }));
   }
 });
