@@ -3,13 +3,14 @@ Hooks.on("initializeDynamicTokenRingConfig", (registry) => {
     "chrome",
     "spider-web",
     "gold",
+    "regal",
     "slinky",
     "silver"
   ];
 
   for (const ring of rings) {
     const key = ring.replace(/-/g, "") + "Ring";
-    const label = "KCTG " + ring.replace(/-/g, " ").replace(/\b\w/g, l => l.toUpperCase()) + " Ring";
+    const label =  "KCTG " + ring.replace(/-/g, " ").replace(/\b\w/g, l => l.toUpperCase()) + " Ring";
     const spritesheet = `modules/kctg-token-rings/assets/ring/${ring}/rings.json`;
 
     registry.addConfig(key, new foundry.canvas.tokens.DynamicRingData({
