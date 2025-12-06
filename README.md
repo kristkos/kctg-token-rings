@@ -14,3 +14,6 @@ Update 3.0.0
 Update 4.0.0
 
 <img width="783" height="831" alt="Screenshot 2025-08-17 200928" src="https://github.com/user-attachments/assets/fdc7e598-bbc7-4902-92b2-ebac12542502" />
+Update 5.0.0
+<img width="1225" height="842" alt="image" src="https://github.com/user-attachments/assets/38f0b459-5371-4d0e-beb5-3d8c320d467b" />
+
