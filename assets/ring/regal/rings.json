@@ -1,6 +1,6 @@
 {
   "config": {
-    "defaultRingColor": "#ffffff"
+    "defaultRingColor": "#4f814f"
   },
   "frames": {
     "token-ring": {
@@ -28,7 +28,7 @@
     }
   },
   "meta": {
-    "image": "testing.webp",
+    "image": "regal.webp",
     "format": "RGBA8888",
     "size": { "w": 2048, "h": 1024 },
     "scale": "1"
