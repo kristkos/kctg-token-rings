@@ -17,3 +17,5 @@ Update 4.0.0
 Update 5.0.0
 <img width="1225" height="842" alt="image" src="https://github.com/user-attachments/assets/38f0b459-5371-4d0e-beb5-3d8c320d467b" />
 
+Update 6.0.0
+<img width="1579" height="794" alt="image" src="https://github.com/user-attachments/assets/dcdbbcd0-cbfb-4172-9598-93ce9ad24e99" />
