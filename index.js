@@ -5,7 +5,8 @@ Hooks.on("initializeDynamicTokenRingConfig", (registry) => {
     "gold",
     "regal",
     "slinky",
-    "silver"
+    "silver",
+    "industrial"
   ];
 
   for (const ring of rings) {
